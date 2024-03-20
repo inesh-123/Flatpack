@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flatpack/static/css/main.e6c13ad2.css",
+    "main.js": "/Flatpack/static/js/main.6042527b.js",
+    "static/js/453.eacd2753.chunk.js": "/Flatpack/static/js/453.eacd2753.chunk.js",
+    "index.html": "/Flatpack/index.html",
+    "main.e6c13ad2.css.map": "/Flatpack/static/css/main.e6c13ad2.css.map",
+    "main.6042527b.js.map": "/Flatpack/static/js/main.6042527b.js.map",
+    "453.eacd2753.chunk.js.map": "/Flatpack/static/js/453.eacd2753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6042527b.js"
+  ]
+}
